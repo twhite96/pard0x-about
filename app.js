@@ -8,6 +8,7 @@ var typewriter = new Typewriter(app, {
 });
 
 typewriter
+  .deleteAll(1)
   .pauseFor(50)
   // .typeString('My name is Tiffany, and I am a frontend dev and wannabe hacker.')
   .deleteAll(1)
