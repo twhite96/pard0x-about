@@ -4,6 +4,7 @@ var typewriter = new Typewriter(app, {
   loop: false,
   delay: 75,
   autoStart: true,
+  cursor: '█',
   strings: ['My name is Tiffany, and I am a frontend dev and wannabe hacker.']
 });
 
