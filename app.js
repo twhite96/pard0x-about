@@ -26,4 +26,5 @@ typewriter
   .typeString('<a href="http://instagram.com/tiffanywhitedev">Instagram</a> <br />')
   .typeString('<a href="http://codesandbox.io/u/twhite96">Codesandbox</a> <br />')
   .typeString('<a href="http://github.com/twhite96">GitHub</a> <br />')
+  .typeString('<a href="https://glitch.com/@tiffany">Glitch</a> <br />')
   .pauseFor(1000)
