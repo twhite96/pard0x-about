@@ -23,7 +23,7 @@ typewriter
   .typeString('<a href="https://resume.tiffanyrwhite.com">Resume</a> <br />')
   .typeString('<a href="https://linkedin.com/in/tiffanyrwhite">LinkedIn</a> <br />')
   .typeString('<a href="https://twitter.com/tiffanywhitedev">Twitter</a> <br />')
-  .typeString('<a href="https://codepen.io/tiffanywhitedev">Instagram</a> <br />')
+  .typeString('<a href="https://codepen.io/tiffanywhitedev">CodePen</a> <br />')
   .typeString('<a href="https://codesandbox.io/u/twhite96">Codesandbox</a> <br />')
   .typeString('<a href="https://github.com/twhite96">GitHub</a> <br />')
   .typeString('<a href="https://glitch.com/@tiffany">Glitch</a> <br />')
