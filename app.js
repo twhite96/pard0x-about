@@ -28,3 +28,4 @@ typewriter
   .typeString('<a href="https://github.com/twhite96">GitHub</a> <br />')
   .typeString('<a href="https://glitch.com/@tiffany">Glitch</a> <br />')
   .pauseFor(1000)
+ 
